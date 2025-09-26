@@ -1,0 +1,1 @@
+7aca92b2940eae1340e70a9ef1c2bb20dd2a4cbbec66b85bf4c6d5c5776df206  encrypt/doc-part-01.md
