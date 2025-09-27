@@ -1,0 +1,1 @@
+to keep it simple and stay in control, whitelist your IPs in .htaccess like #1 — then you get access, everyone else is blocked. Want me to help write that exact .htaccess snippet for your environment? Attach Search Study Voice No file chosenNo file chosen ChatGPT can make mistakes. Check important info. 
