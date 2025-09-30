@@ -1,0 +1,1 @@
+![Dark Blue Circle](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAqElEQVQ4T2NkIBIwEqmOYVBo1f//f4eRgYEBMDJ///9/jkq1auHg/+fPn////vx8gYFBcHEwPDz/+/fvf+7du///v0AyXKmCgYK+Zs2a/4cOHb/z58+fs2LEjiYGBgQEDAwMbNm2b/fv3b+uvXr7/+/Xv/4MGD/y9fvmyZMkUTExPQbCysEypUr//nz5//z589eGDBni///fP3//79v2rRpP1D+A4WBMj0ghdcAAAAASUVORK5CYII=)
